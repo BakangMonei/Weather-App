@@ -1,6 +1,6 @@
-# Welcome to the Weather App Template for `theappmarket.io` 👋
+# Welcome to the Weather App 
 
-This is a template for a weather app that will be made for the `theappmarket.io` platform, created with Expo. It includes basic features for a weather app, such as weather updates, and location-based forecasts.
+This is a template for a weather app that will be made for demos, created with Expo. It includes basic features for a weather app, such as weather updates, and location-based forecasts.
 
 ## Get started
 
@@ -110,9 +110,3 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
-
-Join our community of developers creating universal apps for `theappmarket.io`.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
